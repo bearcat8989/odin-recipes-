@@ -1,1 +1,1 @@
-# Creating Odin project recipie site
+# Creating Odin project recipe site
