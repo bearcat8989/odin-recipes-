@@ -1,0 +1,65 @@
+[33mcommit 8e98c7d0dbd9035c759320f15e85fdd293f5132a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Tue Oct 22 14:54:00 2024 -0700
+
+    Started styling sheet and chicken parm page
+
+[33mcommit b31b6de68c2782804d3dc664edd4d9cdb355d589[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Wed Oct 16 18:12:50 2024 -0700
+
+    Fixing styling issues on pizza.html
+
+[33mcommit 8da0407e257764bdb157cbbbfcb4f79fbe4725f9[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Wed Oct 16 18:04:45 2024 -0700
+
+    Fixed syntax linking error on index.html
+
+[33mcommit 12183bedc6fe1db1de139bf541f3fc71d1f8e907[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Wed Oct 16 17:56:36 2024 -0700
+
+    Fixing typos on chickenparm.html
+
+[33mcommit e1aab7a6c63698e2b5cd775893bf76d4b73036ee[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Wed Oct 16 17:54:36 2024 -0700
+
+    Created pizza page, linked it from home page
+
+[33mcommit 0e17f60f9827ede71b0f973480302d43ee979f9c[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Wed Oct 16 17:01:59 2024 -0700
+
+    Added paragraph about chicken parm description
+
+[33mcommit 3e3a2c11ddd58eb68a2ae4ab95b992be403414ab[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Tue Oct 15 15:58:16 2024 -0700
+
+    Added chicken parm image
+
+[33mcommit aac10a41ea49ca48711f0075a22809aa696f0210[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Tue Oct 15 15:47:32 2024 -0700
+
+    Fixed typo on index.html page
+
+[33mcommit a7977169bbdb36bcb7f838f1f5b731310d83d648[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Tue Oct 15 15:44:19 2024 -0700
+
+    Fixed typo in readme.md
+
+[33mcommit 1c6c69a6946ebad4422402ce02266e18ee611b18[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Tue Oct 15 15:35:04 2024 -0700
+
+    Added chickenparm.html page info, linked back to index.html in odin-recipes
+
+[33mcommit 675bbf01f32c45a265b84d162560f43a72a9ad52[m
+Author: Ian <171635364+bearcat8989@users.noreply.github.com>
+Date:   Tue Oct 15 15:06:34 2024 -0700
+
+    created index and readme
