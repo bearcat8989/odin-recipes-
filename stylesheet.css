@@ -1,45 +1,69 @@
 body {
-    background-color: rgb(224,224,224);
-    font-family: "Times-New Roman", serif;
+    background-color:azure;
 }
 
 h1 {
-
-    background-color: black;
-    color:white;
+    background-color: yellow;
+    color:black;
     font: weight 800px;
-    font-size: 22px;
+    font-size: 40px;
     text-align: center;
-
-
+    font-family: "Times-New Roman", serif;
 }
 
 .description {
-
-    background-color: black;
-    color:white;
-    font: weight 700px;
-    font-size: 18x;
+    background-color: yellow;
+    color:black;
+    font: weight 500px;
+    font-size: 32px;
     text-align: center;
-
-
-}
-
-
-.description p {
-
-
+    font-family: "Times-New Roman", serif;
 
 }
 
 #personal-tid {
 
+    background-color: yellow;
+    color:black;
+    font: weight 300px;
+    font-size: 25px;
+    text-align: left;
+    font-family: "Times-New Roman", serif;
+
 }
 
-ul li {
+.Ingridients {
+    background-color: yellow;
+    color:black;
+    font: weight 800px;
+    font-size: 25px;
+    text-align: left;
+    font-family: "Times-New Roman", serif;
+}
 
+.Ingridients ul {
+    background-color: yellow;
+    color:black;
+    font: weight 800px;
+    font-size: 20px;
+    text-align: left;
+    font-family: "Times-New Roman", serif;
 }
 
 .steps {
+    background-color: yellow;
+    color:black;
+    font: weight 800px;
+    font-size: 25px;
+    text-align: left;
+    font-family: "Times-New Roman", serif;
+}
 
+.steps ol {
+    background-color: yellow;
+    color:black;
+    font: weight 800px;
+    font-size: 20px;
+    text-align: left;
+    font-family: "Times-New Roman", serif;
 }
