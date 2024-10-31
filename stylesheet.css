@@ -1,5 +1,34 @@
 body {
-    background-color:azure;
+    background-color: rgb(232,215,200);
+}
+
+
+.home-page.header, .home-page.subheader {
+
+    text-align:center;
+    border: 2px solid rgb(149,167,191);
+    margin: 20px 15px;
+}
+
+.home-page-header {
+    top-padding: 30px;
+    bottom-padding: 15px;
+    border: 10px solid rgb(10,10,10);
+
+}
+
+.home-page-subheader {
+
+    padding: 10px;
+    bottom-margin:25px; 
+    border: 5px dotted rgb(212,161,161);
+
+}
+
+a {
+    font-family: verdana, sans-serif;
+    color: blue;
+    font-weight: 800em;
 }
 
 h1 {
