@@ -9,6 +9,7 @@ body {
     border: 10px solid rgb(10,10,10);
     font-size: 25px;
     font-weight: 700;
+    
 
 }
 
@@ -25,6 +26,11 @@ body {
 
 .header, .subheader {
     text-align:center;
+}
+
+.header, .subheader, ul {
+    width: 50%;
+    margin: 0 auto
 }
 
 a {
